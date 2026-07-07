@@ -1,13 +1,13 @@
 # Portafolio Web Personal
 
 **Autor:** Uriel Espinoza de la Rosa  
-**Materia:** [Nombre de la materia]  
+**Materia:** Programacion Web  
 **Profesora:** Adelina Martinez  
 
 ## Descripción del Proyecto
 Este proyecto es un portafolio web personal estático construido con HTML, CSS y JavaScript. Se utilizó el framework **[Bootstrap / Tailwind CSS - elige uno]** para la estructura y estilos base, partiendo de una plantilla preexistente.
 
-**Plantilla original descargada de:** [Pon el link de donde sacaste la plantilla]
+**Plantilla original descargada de:** https://startbootstrap.com/theme/personal
 
 ### Estructura de la Página
 El portafolio consta de una sola página (Single Page Application / Landing Page) dividida en las siguientes secciones:
