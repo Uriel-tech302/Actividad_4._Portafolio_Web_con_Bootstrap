@@ -2,7 +2,7 @@
 
 **Autor:** Uriel Espinoza de la Rosa  
 **Materia:** Programacion Web  
-**Profesora:** Adelina Martinez  
+**Profesora:** Martinez Nieto Adelina
 
 ## Descripción del Proyecto
 Este proyecto es un portafolio web personal estático construido con HTML, CSS y JavaScript. Se utilizó el framework Bootstrap para la estructura y estilos base, partiendo de una plantilla preexistente.
